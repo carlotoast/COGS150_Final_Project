@@ -1,0 +1,172 @@
+[
+    {
+        "id": "utensils",
+        "culture": "Chinese",
+        "norm": "Utensils (Chopsticks vs Fork)",
+        "prompts": {
+            "eng": {
+                "context": "At home in China, I eat rice with",
+                "target_congruent": "chopsticks",
+                "target_violation": "a fork"
+            },
+            "native": {
+                "context": "在中国的家中，我吃米饭用",
+                "target_congruent": "筷子",
+                "target_violation": "叉子"
+            }
+        }
+    },
+    {
+        "id": "cny_food",
+        "culture": "Chinese",
+        "norm": "Lunar New Year Food",
+        "prompts": {
+            "eng": {
+                "context": "During a family dinner in China, celebrating the Lunar new year, we had",
+                "target_congruent": "dumplings",
+                "target_violation": "pasta"
+            },
+            "native": {
+                "context": "在中国，庆祝农历新年的家庭聚会时，我们制作了",
+                "target_congruent": "饺子",
+                "target_violation": "意大利面"
+            }
+        }
+    },
+    {
+        "id": "stomach_remedy",
+        "culture": "Chinese",
+        "norm": "Hot Water for Stomach Pain",
+        "prompts": {
+            "eng": {
+                "context": "Back in China, when I told my grandmother my stomach hurt, she told me to drink some",
+                "target_congruent": "hot water",
+                "target_violation": "iced water"
+            },
+            "native": {
+                "context": "在中国的时候，当我对我外婆说我肚子疼，她会对我说，喝点",
+                "target_congruent": "热水",
+                "target_violation": "冰水"
+            }
+        }
+    },
+    {
+        "id": "wedding_color",
+        "culture": "Chinese",
+        "norm": "Wedding Dress Color (Red vs White)",
+        "prompts": {
+            "eng": {
+                "context": "In a Chinese wedding the bride dresses in",
+                "target_congruent": "red",
+                "target_violation": "white"
+            },
+            "native": {
+                "context": "在一个中式婚礼上，新娘会穿着",
+                "target_congruent": "红色",
+                "target_violation": "白色"
+            }
+        }
+    },
+    {
+        "id": "sneeze_response",
+        "culture": "Chinese",
+        "norm": "Reaction to Sneezing",
+        "prompts": {
+            "eng": {
+                "context": "When someone sneeze next to you in China, you say",
+                "target_congruent": "nothing",
+                "target_violation": "bless you"
+            },
+            "native": {
+                "context": "在中国，当别人在你旁边打喷嚏时，",
+                "target_congruent": "你不说什么",
+                "target_violation": "你说上帝保佑"
+            }
+        }
+    },
+    {
+        "id": "unlucky_floor",
+        "culture": "Chinese",
+        "norm": "Unlucky Floor Number (4 vs 13)",
+        "prompts": {
+            "eng": {
+                "context": "In China, apartments skip the floor number",
+                "target_congruent": "four",
+                "target_violation": "thirteen"
+            },
+            "native": {
+                "context": "在中国，公寓楼会跳过楼层",
+                "target_congruent": "四",
+                "target_violation": "十三"
+            }
+        }
+    },
+    {
+        "id": "green_hat",
+        "culture": "Chinese",
+        "norm": "Wearing a Green Hat",
+        "prompts": {
+            "eng": {
+                "context": "In China, a married man will never wear a hat in the color",
+                "target_congruent": "green",
+                "target_violation": "black"
+            },
+            "native": {
+                "context": "在中国，一个已婚男人戴的帽子颜色不会是",
+                "target_congruent": "绿色",
+                "target_violation": "黑色"
+            }
+        }
+    },
+    {
+        "id": "zodiac_underwear",
+        "culture": "Chinese",
+        "norm": "Zodiac Year Red Underwear",
+        "prompts": {
+            "eng": {
+                "context": "In China, because it is his Chinese zodiac year, his mother asked him to wear underwear in the color",
+                "target_congruent": "red",
+                "target_violation": "white"
+            },
+            "native": {
+                "context": "在中国，因为今年是他的本命年，他妈妈告诉他穿内裤的颜色应该是",
+                "target_congruent": "红色",
+                "target_violation": "白色"
+            }
+        }
+    },
+    {
+        "id": "xmas_apple",
+        "culture": "Chinese",
+        "norm": "Christmas Eve Apple (Ping An Guo)",
+        "prompts": {
+            "eng": {
+                "context": "On a christmas eve, in modern day China, it is a popular custom for people to give their friends",
+                "target_congruent": "apple",
+                "target_violation": "pumpkin"
+            },
+            "native": {
+                "context": "在现代中国，大家常常会在平安夜送给朋友",
+                "target_congruent": "苹果",
+                "target_violation": "南瓜"
+            }
+        }
+    },
+    {
+        "id": "red_packet",
+        "culture": "Chinese",
+        "norm": "Refusing Red Packets Politeness",
+        "prompts": {
+            "eng": {
+                "context": "When an elder voluntarily gives you a red packet in China, your first reaction should be to politely",
+                "target_congruent": "refuse",
+                "target_violation": "accept"
+            },
+            "native": {
+                "context": "在中国，当长辈给你红包时，你的第一反应应该是礼貌的",
+                "target_congruent": "拒绝",
+                "target_violation": "接受"
+            }
+        }
+    }
+]
